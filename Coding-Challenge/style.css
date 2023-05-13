@@ -1,0 +1,113 @@
+body {
+    width: 100%;
+    height: 1000px;
+    background-image: url("Immagini/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#container {
+    width: 75%;
+    height: 800px;
+    border-radius: 20px;
+    padding: 100px 30px 30px 30px;
+    margin: 20px auto 20px auto;
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+
+/* Logo - Titolo */
+img {
+    width: 250px;
+    height: auto;
+    margin: 50px auto 20px auto;
+    display: block;
+}
+
+h1 {
+    margin: 10px auto 20px auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 255, 0);
+}
+
+/* Pulsanti */
+div.list_buttons {
+    width: 1000px;
+    height: 30px;
+    padding-top: 10px;
+    margin: 20px auto 20px auto; 
+    background-color: rgb(0, 255, 0);
+    text-align: center; 
+}
+
+/* Monopattini */
+div.monopattino_gino22 {
+    width: 400px;
+    height: 110px;
+    margin: 30px 0px 0px 186px; 
+}
+
+label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    line-height: 1.5em;
+    letter-spacing: 0.05em; 
+    color: white;
+}
+
+span {
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    letter-spacing: 0.02em;
+    word-spacing: 0.1em;
+    color: white;
+}
+
+div.loading_bar_n1 {
+    width: 280px;
+    height: 30%;
+    border-radius: 7px;
+    background-color: orange;
+}
+
+div.monopattino_mike24 {
+    width: 400px;
+    height: 110px;
+    margin: 30px 0px 0px 186px; 
+}
+
+div.loading_bar_n2 {
+    width: 600px;
+    height: 30%;
+    border-radius: 7px;
+    background-color: rgb(0, 255, 0);
+}
+
+div.monopattino_fede154 {
+    width: 400px;
+    height: 110px;
+    margin: 30px 0px 0px 186px; 
+}
+
+div.loading_bar_n3 {
+    width: 130px;
+    height: 30%;
+    border-radius: 7px;
+    background-color: rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
